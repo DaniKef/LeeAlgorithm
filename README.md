@@ -1,0 +1,2 @@
+# LeeAlgorithm
+C++. Just compile.
